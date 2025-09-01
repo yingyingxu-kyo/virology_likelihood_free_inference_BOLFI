@@ -29,5 +29,5 @@ Saved samples from posterior distribution in inference using real experimental d
 
 
 A demo notebook with a 2D toy example demonstrating how BOLFI with classifier algorithm works:
-Remes, Ulpu (2024). “ELFI Notebooks: Failure-robust BOLFI”, Accessed: 2024-2-20. available at:
+Remes, Ulpu (2024). “ELFI Notebooks: Failure-robust BOLFI”, Accessed: 2024-2-20. Available at:
 https://github.com/uremes/elfi-notebooks/blob/extend_model/failure_robust_BOLFI.ipynb.
