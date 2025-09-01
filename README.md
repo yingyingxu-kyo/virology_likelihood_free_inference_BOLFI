@@ -1,9 +1,15 @@
+This folder contains the code used in the project “Sample Efficient Likelihood-Free Inference for Virus Dynamics with Different Types of Experiments” by Yingying Xu and Ulpu Remes.
+Paper: https://doi.org/10.48550/arXiv.2508.11042
+
+
+
+
 File Explanation
 
 Data folder: ‘psimon-sH1N1’ (containing four datasets)
 
-Simulator: ‘simulator.py’
-                 ‘meanfield_solve_ivp_w_vrna.py’  (Note: ‘simulator.py’ requires ‘meanfield_solve_ivp_w_vrna.py’ to run)
+Simulator components: ‘simulator.py’ and ‘meanfield_solve_ivp_w_vrna.py’  (Note: ‘simulator.py’ requires ‘meanfield_solve_ivp_w_vrna.py’ to run) 
+The simulator in this project combines components from the original sources by Quirouette, Christian et al., (2023). “The effect of random virus failure following cell entry on infection outcome and the success of antiviral therapy”, Scientific Reports, Vol. 13 No. 1, p. 17243. doi: 10.1038/s41598-023-44180-w.
 
 Inference using real experimental data: ‘MFM_BOLFI_fail_detection_multi_Nov14.ipynb’ 
 
