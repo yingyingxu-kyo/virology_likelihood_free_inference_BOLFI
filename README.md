@@ -1,4 +1,4 @@
-This folder contains the code used in the project “Sample Efficient Likelihood-Free Inference for Virus Dynamics with Different Types of Experiments” by Yingying Xu and Ulpu Remes.
+This folder contains the code used in the project “Sample Efficient Likelihood-Free Inference for Virus Dynamics with Different Types of Experiments” by Yingying Xu.
 Paper: https://doi.org/10.48550/arXiv.2508.11042
 
 
@@ -31,3 +31,5 @@ Saved samples from posterior distribution in inference using real experimental d
 A demo notebook with a 2D toy example demonstrating how BOLFI with classifier algorithm works:
 Remes, Ulpu (2024). “ELFI Notebooks: Failure-robust BOLFI”, Accessed: 2024-2-20. Available at:
 https://github.com/uremes/elfi-notebooks/blob/extend_model/failure_robust_BOLFI.ipynb.
+
+Acknowledgment: Thanks Ulpu Remes for discussion and support during code development and classifier design. 
